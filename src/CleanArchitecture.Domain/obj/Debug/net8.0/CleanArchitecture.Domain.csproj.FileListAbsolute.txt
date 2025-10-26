@@ -1,0 +1,12 @@
+D:\lap trinh code\net\CleanArchitecture\src\CleanArchitecture.Domain\bin\Debug\net8.0\CleanArchitecture.Domain.deps.json
+D:\lap trinh code\net\CleanArchitecture\src\CleanArchitecture.Domain\bin\Debug\net8.0\CleanArchitecture.Domain.dll
+D:\lap trinh code\net\CleanArchitecture\src\CleanArchitecture.Domain\bin\Debug\net8.0\CleanArchitecture.Domain.pdb
+D:\lap trinh code\net\CleanArchitecture\src\CleanArchitecture.Domain\obj\Debug\net8.0\CleanArchitecture.Domain.csproj.AssemblyReference.cache
+D:\lap trinh code\net\CleanArchitecture\src\CleanArchitecture.Domain\obj\Debug\net8.0\CleanArchitecture.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\lap trinh code\net\CleanArchitecture\src\CleanArchitecture.Domain\obj\Debug\net8.0\CleanArchitecture.Domain.AssemblyInfoInputs.cache
+D:\lap trinh code\net\CleanArchitecture\src\CleanArchitecture.Domain\obj\Debug\net8.0\CleanArchitecture.Domain.AssemblyInfo.cs
+D:\lap trinh code\net\CleanArchitecture\src\CleanArchitecture.Domain\obj\Debug\net8.0\CleanArchitecture.Domain.csproj.CoreCompileInputs.cache
+D:\lap trinh code\net\CleanArchitecture\src\CleanArchitecture.Domain\obj\Debug\net8.0\CleanArchitecture.Domain.dll
+D:\lap trinh code\net\CleanArchitecture\src\CleanArchitecture.Domain\obj\Debug\net8.0\refint\CleanArchitecture.Domain.dll
+D:\lap trinh code\net\CleanArchitecture\src\CleanArchitecture.Domain\obj\Debug\net8.0\CleanArchitecture.Domain.pdb
+D:\lap trinh code\net\CleanArchitecture\src\CleanArchitecture.Domain\obj\Debug\net8.0\ref\CleanArchitecture.Domain.dll

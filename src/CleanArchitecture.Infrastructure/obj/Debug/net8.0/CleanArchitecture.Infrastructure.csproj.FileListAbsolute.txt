@@ -1,0 +1,15 @@
+D:\lap trinh code\net\CleanArchitecture\src\CleanArchitecture.Infrastructure\bin\Debug\net8.0\CleanArchitecture.Infrastructure.deps.json
+D:\lap trinh code\net\CleanArchitecture\src\CleanArchitecture.Infrastructure\bin\Debug\net8.0\CleanArchitecture.Infrastructure.dll
+D:\lap trinh code\net\CleanArchitecture\src\CleanArchitecture.Infrastructure\bin\Debug\net8.0\CleanArchitecture.Infrastructure.pdb
+D:\lap trinh code\net\CleanArchitecture\src\CleanArchitecture.Infrastructure\obj\Debug\net8.0\CleanArchitecture.Infrastructure.csproj.AssemblyReference.cache
+D:\lap trinh code\net\CleanArchitecture\src\CleanArchitecture.Infrastructure\obj\Debug\net8.0\CleanArchitecture.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\lap trinh code\net\CleanArchitecture\src\CleanArchitecture.Infrastructure\obj\Debug\net8.0\CleanArchitecture.Infrastructure.AssemblyInfoInputs.cache
+D:\lap trinh code\net\CleanArchitecture\src\CleanArchitecture.Infrastructure\obj\Debug\net8.0\CleanArchitecture.Infrastructure.AssemblyInfo.cs
+D:\lap trinh code\net\CleanArchitecture\src\CleanArchitecture.Infrastructure\obj\Debug\net8.0\CleanArchitecture.Infrastructure.csproj.CoreCompileInputs.cache
+D:\lap trinh code\net\CleanArchitecture\src\CleanArchitecture.Infrastructure\obj\Debug\net8.0\CleanArchitecture.Infrastructure.dll
+D:\lap trinh code\net\CleanArchitecture\src\CleanArchitecture.Infrastructure\obj\Debug\net8.0\refint\CleanArchitecture.Infrastructure.dll
+D:\lap trinh code\net\CleanArchitecture\src\CleanArchitecture.Infrastructure\obj\Debug\net8.0\CleanArchitecture.Infrastructure.pdb
+D:\lap trinh code\net\CleanArchitecture\src\CleanArchitecture.Infrastructure\obj\Debug\net8.0\ref\CleanArchitecture.Infrastructure.dll
+D:\lap trinh code\net\CleanArchitecture\src\CleanArchitecture.Infrastructure\bin\Debug\net8.0\CleanArchitecture.Domain.dll
+D:\lap trinh code\net\CleanArchitecture\src\CleanArchitecture.Infrastructure\bin\Debug\net8.0\CleanArchitecture.Domain.pdb
+D:\lap trinh code\net\CleanArchitecture\src\CleanArchitecture.Infrastructure\obj\Debug\net8.0\CleanArc.38F44B56.Up2Date
