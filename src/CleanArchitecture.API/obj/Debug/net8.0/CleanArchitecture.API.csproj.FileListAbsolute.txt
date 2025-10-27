@@ -91,3 +91,4 @@ D:\lap trinh code\net\CleanArchitecture\src\CleanArchitecture.API\bin\Debug\net8
 D:\lap trinh code\net\CleanArchitecture\src\CleanArchitecture.API\bin\Debug\net8.0\CleanArchitecture.Application.pdb
 D:\lap trinh code\net\CleanArchitecture\src\CleanArchitecture.API\bin\Debug\net8.0\CleanArchitecture.Domain.pdb
 D:\lap trinh code\net\CleanArchitecture\src\CleanArchitecture.API\bin\Debug\net8.0\CleanArchitecture.Infrastructure.pdb
+D:\lap trinh code\net\CleanArchitecture\src\CleanArchitecture.API\obj\Debug\net8.0\CleanArchitecture.API.sourcelink.json

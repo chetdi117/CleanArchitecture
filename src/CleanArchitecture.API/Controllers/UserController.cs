@@ -1,10 +1,10 @@
 ﻿using CleanArchitecture.API.Extensions;
 using CleanArchitecture.Application.Factory;
-using CleanArchitecture.Application.Models;
 using CleanArchitecture.Application.UseCases.Commands.UserCommands.Create;
 using CleanArchitecture.Application.UseCases.Commands.UserCommands.Delete;
 using CleanArchitecture.Application.UseCases.Commands.UserCommands.Update;
 using CleanArchitecture.Application.UseCases.Queries.UserQueries.GetUsersQueries;
+using CleanArchitecture.Domain.DTO;
 using CleanArchitecture.Domain.Entities.User;
 using CleanArchitecture.Domain.Models;
 using MediatR;

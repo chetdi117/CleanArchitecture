@@ -1,6 +1,4 @@
-
-
-using CleanArchitecture.Application.Models;
+using CleanArchitecture.Domain.DTO;
 using CleanArchitecture.Infrastructure.Data;
 using MediatR;
 using Microsoft.Extensions.Logging;

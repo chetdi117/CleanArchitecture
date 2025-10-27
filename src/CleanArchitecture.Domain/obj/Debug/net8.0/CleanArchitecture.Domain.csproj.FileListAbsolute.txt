@@ -10,3 +10,4 @@ D:\lap trinh code\net\CleanArchitecture\src\CleanArchitecture.Domain\obj\Debug\n
 D:\lap trinh code\net\CleanArchitecture\src\CleanArchitecture.Domain\obj\Debug\net8.0\refint\CleanArchitecture.Domain.dll
 D:\lap trinh code\net\CleanArchitecture\src\CleanArchitecture.Domain\obj\Debug\net8.0\CleanArchitecture.Domain.pdb
 D:\lap trinh code\net\CleanArchitecture\src\CleanArchitecture.Domain\obj\Debug\net8.0\ref\CleanArchitecture.Domain.dll
+D:\lap trinh code\net\CleanArchitecture\src\CleanArchitecture.Domain\obj\Debug\net8.0\CleanArchitecture.Domain.sourcelink.json

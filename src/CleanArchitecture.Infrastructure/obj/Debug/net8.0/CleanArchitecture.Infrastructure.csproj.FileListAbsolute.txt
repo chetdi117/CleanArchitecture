@@ -13,3 +13,4 @@ D:\lap trinh code\net\CleanArchitecture\src\CleanArchitecture.Infrastructure\obj
 D:\lap trinh code\net\CleanArchitecture\src\CleanArchitecture.Infrastructure\bin\Debug\net8.0\CleanArchitecture.Domain.dll
 D:\lap trinh code\net\CleanArchitecture\src\CleanArchitecture.Infrastructure\bin\Debug\net8.0\CleanArchitecture.Domain.pdb
 D:\lap trinh code\net\CleanArchitecture\src\CleanArchitecture.Infrastructure\obj\Debug\net8.0\CleanArc.38F44B56.Up2Date
+D:\lap trinh code\net\CleanArchitecture\src\CleanArchitecture.Infrastructure\obj\Debug\net8.0\CleanArchitecture.Infrastructure.sourcelink.json

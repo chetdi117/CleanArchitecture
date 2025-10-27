@@ -1,4 +1,4 @@
-﻿using CleanArchitecture.Application.Models;
+﻿using CleanArchitecture.Domain.DTO;
 using System;
 using System.Collections.Generic;
 using System.Linq;

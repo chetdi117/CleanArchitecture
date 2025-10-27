@@ -1,6 +1,7 @@
 
 
 using CleanArchitecture.Application.Models;
+using CleanArchitecture.Domain.DTO;
 
 namespace CleanArchitecture.Application.UseCases.Queries.UserQueries.GetUsersQueries
 {
